@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3acf877a-5b62-4198-9f9a-ee4baf4cd3a4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/templates/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/resources/templates/list.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +46,14 @@
   "keyToString": {
     "Gradle.Build demo.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "Spring Boot.DemoApplication.executor": "Run",
-    "git-widget-placeholder": "mungbranch",
+    "git-widget-placeholder": "Merging mungbranch",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/cs.m4.library/test_demo",
     "node.js.detected.package.eslint": "true",
@@ -84,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762955998415</updated>
-      <workItem from="1762956002267" duration="1594000" />
+      <workItem from="1762956002267" duration="2653000" />
     </task>
     <servers />
   </component>
